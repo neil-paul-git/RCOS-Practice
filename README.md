@@ -1,5 +1,5 @@
 # RCOS-Practice
 - Neil Paul
-- ![Image]("img.png")
+- ![Image](img.png)
 - 2028
 - OpenPath (Naivgational)
